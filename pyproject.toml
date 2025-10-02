@@ -129,7 +129,7 @@ package-mode = false
     extras = [ "redis", "sqs" ]
 
     [tool.poetry.dependencies.django-storages]
-    version = "^1.11"
+    version = "^1.14"
     extras = [ "google" ]
 
     [tool.poetry.dependencies.python-magic]
